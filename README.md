@@ -1,15 +1,51 @@
-**C# Project for Bus Ticket Booking and Management System:**
+# 🚌 Bus Ticket Booking & Management System (C# Project)
 
-This project is created for customers to book bus tickets online and manage bus company operations, such as:
+A comprehensive C# application designed to facilitate **online bus ticket booking** and support efficient **bus company operations**. This system addresses key areas of transportation management and delivers both customer convenience and operational optimization.
 
-Bus Operations Management: Research on effective management methods for all bus service activities, including route management, bus coordination, bus stop management, customer service, and other supporting activities. The research may also focus on optimizing how tasks are organized and managed to ensure efficiency and improve service quality for passengers.
+## 🔧 Core Features
 
-Customer Management: Research on methods to attract and retain customers, including building relationships with passengers, leveraging customer data to personalize experiences, and developing loyalty programs. The research could also explore how to serve special customer groups such as tourists, students, and the elderly.
+### 1. 🚌 Bus Operations Management
+- Route planning & scheduling
+- Bus coordination & stop management
+- Task automation & efficiency optimization
+- Enhanced passenger service quality
 
-Financial and Revenue Management: Research on managing finances and optimizing revenue in bus services. The study could focus on creating a sustainable financial model, analyzing operational costs and business efficiency, as well as applying pricing and distribution strategies to increase profitability for the company.
+### 2. 👥 Customer Management
+- Customer data analytics & personalization
+- Loyalty program support
+- Special service offerings (e.g., tourists, students, seniors)
 
-Employee Management: Research on how to recruit, train, evaluate, and develop employees in the bus service sector. The study could investigate effective methods to motivate bus drivers and operational staff, improve their working capacity, and create a positive work environment, ensuring employee satisfaction.
+### 3. 💰 Financial & Revenue Management
+- Cost analysis & revenue optimization
+- Sustainable financial modeling
+- Dynamic pricing & ticket distribution strategies
 
-Information System Management: Research on how to use information technology and management systems to enhance efficiency in bus operations. The study could focus on developing and implementing bus route management systems, online ticket booking systems, and technical solutions to improve passenger experience and manage data effectively.
+### 4. 👨‍💼 Employee Management
+- Recruitment, training & evaluation workflows
+- Staff performance tracking
+- Creating a positive & productive work environment
 
-Ticket Booking and Payment Process: Research on creating an efficient and smart ticket booking and payment process. The study may explore the login process, selecting bus routes, necessary documentation, managing booked and available ticket statuses, as well as payment terms and ensuring the security of transaction information.
+### 5. 💻 Information System Integration
+- Route management system integration
+- Online booking platform
+- Real-time data management & reporting
+- Passenger experience enhancement through tech
+
+### 6. 🎫 Ticket Booking & Payment Workflow
+- Streamlined login & seat selection process
+- Live ticket status (booked / available)
+- Secure payment gateway
+- Transactional data privacy compliance
+
+## 🛠️ Technologies Used
+- **C# / .NET**
+- **SQL Server**
+- **WinForms / WebForms**
+- [Optional] ASP.NET MVC / APIs (if applicable)
+
+## 👩‍💻 Developed By
+**Phạm Thị Phương Uyên**  
+Student at **University of Finance - Marketing (UFM)**  
+Major: **Management Information Systems**  
+
+---
